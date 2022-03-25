@@ -12,6 +12,10 @@
 
 ## About Myself:
 
+Last year decided to change my career from Project manager to IT specialist.
+Finished basic course of Frontend development in Innopolis University.
+Fan of graphics and structures.
+
 ## Skills and Proficiency:
 
 - HTML5, CSS3
@@ -40,5 +44,5 @@ var isSquare = function(n){
 ## Languages:
 
 - Russian: Native
-- English: Advanced (C1) [IELTS]([IELTS](https://ydmitry.ru/blog/rukovodstvo-po-markdown-dlya-uproshcheniya-veb-razrabotki/)
+- English: Advanced (C1) [IELTS](https://ydmitry.ru/blog/rukovodstvo-po-markdown-dlya-uproshcheniya-veb-razrabotki/)
 - Japanese: Basic
