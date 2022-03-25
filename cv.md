@@ -1,20 +1,16 @@
-# **Maria Podverbnaya**
+# **Maria Podverbnaia**
 
 ## Junior Frontend developer
-
-===
 
 ## Contact iformation:
 
 **Phone:** +7 9086 477 809
-**E-mail:** podverbnaya@bk.ru
+
+**E-mail:** <podverbnaya@bk.ru>
+
 **Telegram:** @podverbnaya
 
-===
-
 ## About Myself:
-
-===
 
 ## Skills and Proficiency:
 
@@ -22,8 +18,6 @@
 - JavaScript Basics
 - Git, GitHub
 - VS Code, WebStorm
-
-===
 
 ## Code example:
 
@@ -46,6 +40,5 @@ var isSquare = function(n){
 ## Languages:
 
 - Russian: Native
-- English: Advanced (C1)
-  [IELTS certificate] (https://drive.google.com/file/d/0Bww9_OsNGEM7dDVXRE9jdkFzdkVZdS1nU1VmNWtSWnA4czRj/view?usp=sharing&resourcekey=0-x9R448gP-LTweZFYP7-hVg)
+- English: Advanced (C1) [IELTS]([IELTS](https://ydmitry.ru/blog/rukovodstvo-po-markdown-dlya-uproshcheniya-veb-razrabotki/)
 - Japanese: Basic
