@@ -62,5 +62,3 @@ let isSquare = function(n) {
 - Russian: Native
 - English: Advanced (C1) [IELTS certificate](https://drive.google.com/file/d/0Bww9_OsNGEM7dDVXRE9jdkFzdkVZdS1nU1VmNWtSWnA4czRj/view?usp=sharing&resourcekey=0-x9R448gP-LTweZFYP7-hVg)
 - Japanese: Basic
-
----
